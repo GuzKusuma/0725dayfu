@@ -3,7 +3,7 @@ import GameCanvas from "./Gameplay";
 import GameStage2 from "./Gameplay2";
 import GameStage3 from "./Gameplay3";
 
-function App() {
+function Galery() {
   const [stage, setStage] = useState("menu");
 
 
@@ -39,4 +39,4 @@ function App() {
   );
 }
 
-export default App;
+export default Galery;
