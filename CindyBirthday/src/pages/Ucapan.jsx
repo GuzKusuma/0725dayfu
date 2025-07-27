@@ -38,9 +38,8 @@ function Gallery() {
     autoplaySpeed: 100, // 2 detik tiap slide
     pauseOnHover: true, // berhenti kalau dihover
     cssEase: "linear", // transisi lebih smooth
-   
+    
   };
-
   return (
     <div style={styles.container}>
       <h1 style={styles.heading}>Happy Birthday Cindy 🎉</h1>
