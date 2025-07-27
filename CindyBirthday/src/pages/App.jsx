@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Home from './Home'
-import Galery from './galery'
 import Ucapan from './Ucapan'
+import Galery from './Galery'
 
 function App() {
   return (
